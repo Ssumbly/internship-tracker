@@ -97,14 +97,4 @@ docker compose up --build
 | DELETE | `/applications/{id}` | Yes | Delete an application |
 | GET    | `/stats` | Yes | Counts by status + upcoming deadlines (30 days) |
 
-## Screenshots
 
-_Screenshots coming soon — run the app locally with the seed data to see the dashboard, stats cards, and application list._
-
-## Future Improvements
-
-- Deadline reminder emails / calendar export (.ics)
-- Kanban drag-and-drop board for the status pipeline
-- OA and interview date tracking separate from the application deadline
-- Resume file uploads instead of version labels
-- Pagination and search across company / role / notes
